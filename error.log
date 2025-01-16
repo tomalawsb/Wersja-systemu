@@ -1,0 +1,7 @@
+2025-01-16 07:30:36,723 INFO: Zmieniono motyw na: litera
+2025-01-16 07:30:36,723 INFO: Ustawienia zostały załadowane.
+2025-01-16 07:30:36,730 INFO: Pobrano dyski: ['C:\\', 'D:\\', 'E:\\', 'H:\\']
+2025-01-16 07:30:36,730 INFO: Etykieta dysku C:\: TW System
+2025-01-16 07:30:36,730 INFO: Dysk D:\ nie ma etykiety.
+2025-01-16 07:30:36,730 INFO: Etykieta dysku E:\: TW Dane 2
+2025-01-16 07:30:36,730 ERROR: Błąd odczytu etykiety dysku H:\.

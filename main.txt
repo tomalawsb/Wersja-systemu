@@ -1,0 +1,1 @@
+python "E:\Użytki\Prace\Tomek_U\Python\Wersja systemu\Main.py"
